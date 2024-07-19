@@ -13,6 +13,7 @@ Ensure you have Node.js installed on your system to use npm commands. You can do
 
 ## Autocomplete
 *	Search for user names by querying an endpoint
+*	Examples of usernames: Emily, James, Isabella
 *	Include the component: ```import  AutoComplete  from  "./components/AutoComplete";```
 *	Send a function to handle the response from the selected user.
 ```
